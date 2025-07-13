@@ -12,3 +12,4 @@ IPy
 pysnmp
 pyasn1
 #pysqlcipher # no python3 compatibility
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
